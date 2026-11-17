@@ -1,9 +1,0 @@
-# Versions used for the reported results
-torch==2.10.0
-transformers==5.5.0
-unsloth==2026.6.8
-peft==0.19.1
-datasets
-bitsandbytes
-matplotlib
-numpy
